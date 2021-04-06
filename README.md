@@ -26,3 +26,9 @@ This data analysis allows you to accurately compare fare prices between Rural, S
    * The table demonstrates that the further away from the city you get - the more expensive the fare cost becomes but the least amount of drivers.
   * Suburban city types fall right in between the two other city types as far as Total Fares are shown. Looking at the amount of drivers (less than a quarter amount) and the ride count (less than half the amount) compared to Urban city types. Yet bringing in close to 50% total fares as Urban cities.
   * This data shows an abundance of drivers available within the urban city type but shows less cost of fares. The rates have to be competitive due to the amount of drivers. Less drivers in Rural city types causes the cost of fares to be higher - less supply.
+
+## Recommendations
+To even out the disparities among the different city types I recommend:
+  * Increasing your supply of drivers to Rural cities so that the convenience in taking a fare versus driving increases therefore your demand will increase as well. This will decrease fare costs eventually but it will allow fares to be more accessible to rural areas.
+  * Decreasing the amount of drivers you have saturated within the urban areas will allow the price to increase because the fare costs won't be as competitive. 
+  * The suburban areas seem to be in a happy medium between the two other city types - I would suggest leaving the costs of fares the same but increasing the quantities of drivers to allow for more access.
